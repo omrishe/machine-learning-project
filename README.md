@@ -59,4 +59,4 @@ Analyzing the results and visualizing them for better understanding.
 The classification results are documented in the classification_results.csv file. 
 Detailed analysis and visualizations are available in the Jupyter Notebook.
 
-Author: Omri She
+Author: Omri Shema
